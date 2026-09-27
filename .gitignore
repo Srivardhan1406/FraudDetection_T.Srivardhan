@@ -1,0 +1,4 @@
+data/*.csv
+.ipynb_checkpoints/
+dashboard/model.pkl
+.DS_Store
