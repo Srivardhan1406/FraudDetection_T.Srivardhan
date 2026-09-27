@@ -29,12 +29,3 @@ This project uses the [IEEE-CIS Fraud Detection dataset](https://www.kaggle.com/
 
 ## 🧠 Explainability
 SHAP is used to explain individual predictions and global feature importance — see `charts/shap_summary.png` and the waterfall plots for example cases (fraud, borderline, and legitimate transactions).
-
-To use this:
-
-In VS Code, click on README.md in the file list to open it.
-Select all existing text (Ctrl+A) and delete it.
-Paste the text above.
-Save with Ctrl+S.
-
-Let me know once that's done, or if you want me to tweak anything (like the Kaggle link, or add your name/contact info).
